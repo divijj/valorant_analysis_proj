@@ -1,0 +1,8 @@
+map,cluster_0_count,cluster_1_count,cluster_2_count,cluster_3_count,win_rate,sample_size
+Abyss,2,2,0,1,0.5333333333333333,15
+Bind,1,2,0,2,0.575,80
+Breeze,2,1,0,2,0.5131578947368421,76
+Corrode,0,3,0,2,0.6,10
+Haven,0,2,0,3,0.7142857142857143,14
+Pearl,3,1,0,1,0.8571428571428571,7
+Split,1,2,0,2,0.5185185185185185,108

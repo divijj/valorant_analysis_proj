@@ -1,0 +1,8 @@
+map,duelist_count,initiator_count,controller_count,sentinel_count,win_rate,sample_size
+Abyss,1,2,2,0,0.5769230769230769,26
+Bind,2,1,2,0,0.5666666666666667,60
+Breeze,1,2,2,0,0.625,8
+Corrode,1,1,2,1,0.8,10
+Haven,2,1,1,1,0.5769230769230769,52
+Pearl,1,2,1,1,0.5,38
+Split,1,1,2,1,0.5555555555555556,18
